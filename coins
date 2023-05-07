@@ -44,7 +44,7 @@
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
     "contractAddress": "0xc00592aa41d32d137dc480d9f6d0df19b860104f",
     "LP": "0x671A5e209A5496256ee21386EC3EaB9054d658A2",
-    "reserveNumber": 0,
+    "reserveNumber": 1,
     "swaplink": "https://...",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
