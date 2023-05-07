@@ -68,7 +68,7 @@
     "logo": "https://noahevm.s3.ap-northeast-1.amazonaws.com/image/17777-0xb529283cb363703bd7c049d8cf157249c2bc32de-cxe.png",
     "contractAddress": "0xb529283cb363703bd7c049d8cf157249c2bc32de",
     "LP": "0x0C397547a9287a2f7bE730147e461Ef81371c888",
-    "reserveNumber": 1,
+    "reserveNumber": 0,
     "swaplink": "https://noahark.pro/?chainId=17777&outputCurrency=0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
