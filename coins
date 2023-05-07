@@ -12,7 +12,6 @@
       "detailsLink": "https://...chartpage",
       "isSupplyDynamic": true,
       "supply": "3000000",
-      "ejemplo": 40000,
       "price": {
         "now": 0.3833905666898543,
         "oneHourAgo": 0.3833905666898543,
