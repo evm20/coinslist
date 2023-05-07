@@ -15,9 +15,9 @@
     
   },
     {
-    "name": "Frogge",
-    "shortName": "FRGE",
-    "logo": "url",
+    "name": "Bitcoin",
+    "shortName": "BTC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
     "reserveNumber": 1,
@@ -27,9 +27,9 @@
     "supply": 40000
   },
     {
-    "name": "Frogge",
-    "shortName": "FRGE",
-    "logo": "url",
+    "name": "Ethereum",
+    "shortName": "ETH",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
     "reserveNumber": 1,
@@ -39,9 +39,9 @@
     "supply": 40000
   },
   {
-    "name": "Bitcoin",
-    "shortName": "BTC",
-    "logo": "url",
+    "name": "EOS",
+    "shortName": "EOS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
     "reserveNumber": 0,
