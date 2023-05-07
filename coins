@@ -47,7 +47,7 @@
       "swaplink": "https://...",
       "detailsLink": "https://...chartpage",
       "isSupplyDynamic": true,
-      "supply": "3000000",
+      "supply": "",
       "price": {
         "now": 0.3833905666898543,
         "oneHourAgo": 0.3833905666898543,
