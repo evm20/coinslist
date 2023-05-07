@@ -49,5 +49,17 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 1090371587
+  },
+   {
+    "name": "NEUTRO",
+    "shortName": "NEUTRO",
+    "logo": "https://assets.coingecko.com/coins/images/30037/small/Icon_orange-01-01.png?1682649684",
+    "contractAddress": "0xb3fb2548287bcadd5a045270b3182c1fc6318684",
+    "LP": "0xb3FB2548287bcaDD5a045270b3182c1fc6318684",
+    "reserveNumber": 1,
+    "swaplink": "https://www.frogge.finance/#/swap",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": true,
+    "supply": 0
   }
 ]
