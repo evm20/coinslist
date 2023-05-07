@@ -53,7 +53,7 @@
    {
     "name": "NEUTRO",
     "shortName": "NEUTRO",
-    "logo": "https://assets.coingecko.com/coins/images/30037/small/Icon_orange-01-01.png?1682649684",
+    "logo": "https://assets.coingecko.com/coins/images/30037/small/Icon_orange-01-01.png",
     "contractAddress": "0xb3fb2548287bcadd5a045270b3182c1fc6318684",
     "LP": "0xb3FB2548287bcaDD5a045270b3182c1fc6318684",
     "reserveNumber": 1,
