@@ -23,8 +23,8 @@
     "reserveNumber": 1,
     "swaplink": "https://...",
     "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,
-    "supply": 40000
+    "isSupplyDynamic": false,
+    "supply": 21000
   },
     {
     "name": "Ethereum",
@@ -35,8 +35,8 @@
     "reserveNumber": 1,
     "swaplink": "https://...",
     "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,
-    "supply": 40000
+    "isSupplyDynamic": false,
+    "supply": 120344575
   },
   {
     "name": "EOS",
@@ -48,6 +48,6 @@
     "swaplink": "https://...",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 40000
+    "supply": 1090371587
   }
 ]
