@@ -8,7 +8,7 @@
     "reserveNumber": 1,
     "swaplink": "https://...",
     "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,
+    "isSupplyDynamic": false,
     "supply": 40000,
     "ejemplo": 40000
     
