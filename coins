@@ -6,7 +6,7 @@
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
     "reserveNumber": 1,
-    "swaplink": "https://...",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 40000,
@@ -21,7 +21,7 @@
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
     "reserveNumber": 1,
-    "swaplink": "https://...",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 21000
@@ -33,7 +33,7 @@
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
     "reserveNumber": 1,
-    "swaplink": "https://...",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 120344575
@@ -45,7 +45,7 @@
     "contractAddress": "0xc00592aa41d32d137dc480d9f6d0df19b860104f",
     "LP": "0x671A5e209A5496256ee21386EC3EaB9054d658A2",
     "reserveNumber": 1,
-    "swaplink": "https://...",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 1090371587
