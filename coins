@@ -71,6 +71,23 @@
         "oneHourAgo": 2.608306220556947,
         "oneDayAgo": 2.1554038185602096,
         "sevenDaysAgo": 0.9033640594874266
+      },
+      {
+      "name": "CXE",
+      "shortName": "CXE",
+      "logo": "url",
+      "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
+      "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
+      "reserveNumber": 0,
+      "swaplink": "https://...",
+      "detailsLink": "https://...chartpage",
+      "isSupplyDynamic": false,
+      "supply": 40000,
+      "price": {
+        "now": 2.608306220556947,
+        "oneHourAgo": 2.608306220556947,
+        "oneDayAgo": 2.1554038185602096,
+        "sevenDaysAgo": 0.9033640594874266
       }
     }
   ]
