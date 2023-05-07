@@ -20,44 +20,44 @@
       }
     },
     {
-      "name": "Frogge",
-      "shortName": "FRGE",
-      "logo": "url",
-      "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
-      "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
-      "reserveNumber": 1,
-      "swaplink": "https://...",
-      "detailsLink": "https://...chartpage",
-      "isSupplyDynamic": true,
-      "supply": "3000000",
-      "price": {
-        "now": 0.3833905666898543,
-        "oneHourAgo": 0.3833905666898543,
-        "oneDayAgo": 0.4639501848280064,
-        "sevenDaysAgo": 1.1069734173035455
-      }
-    },
-    {
-      "name": "Frogge",
-      "shortName": "FRGE",
-      "logo": "url",
-      "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
-      "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
-      "reserveNumber": 1,
-      "swaplink": "https://...",
-      "detailsLink": "https://...chartpage",
-      "isSupplyDynamic": true,
-      "supply": "3000000",
-      "price": {
-        "now": 0.3833905666898543,
-        "oneHourAgo": 0.3833905666898543,
-        "oneDayAgo": 0.4639501848280064,
-        "sevenDaysAgo": 1.1069734173035455
-      }
-    },
-    {
       "name": "Bitcoin",
       "shortName": "BTC",
+      "logo": "url",
+      "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
+      "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
+      "reserveNumber": 1,
+      "swaplink": "https://...",
+      "detailsLink": "https://...chartpage",
+      "isSupplyDynamic": true,
+      "supply": "3000000",
+      "price": {
+        "now": 0.3833905666898543,
+        "oneHourAgo": 0.3833905666898543,
+        "oneDayAgo": 0.4639501848280064,
+        "sevenDaysAgo": 1.1069734173035455
+      }
+    },
+    {
+      "name": "Neutro",
+      "shortName": "Neutro",
+      "logo": "url",
+      "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
+      "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
+      "reserveNumber": 1,
+      "swaplink": "https://...",
+      "detailsLink": "https://...chartpage",
+      "isSupplyDynamic": true,
+      "supply": "3000000",
+      "price": {
+        "now": 0.3833905666898543,
+        "oneHourAgo": 0.3833905666898543,
+        "oneDayAgo": 0.4639501848280064,
+        "sevenDaysAgo": 1.1069734173035455
+      }
+    },
+    {
+      "name": "BNB",
+      "shortName": "BNB",
       "logo": "url",
       "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
       "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
