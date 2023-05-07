@@ -14,6 +14,19 @@
     
     
   },
+   {
+    "name": "BNB",
+    "shortName": "BNB",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
+    "decimals": 18,
+    "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
+    "reserveNumber": 1,
+    "swaplink": "https://www.frogge.finance/#/swap",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": false,
+    "supply": 40000
+  },
     {
     "name": "Bitcoin",
     "shortName": "BTC",
