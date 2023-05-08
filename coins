@@ -9,27 +9,10 @@
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 1,
-    "swaplink": "https://www.frogge.finance/#/swap",
+    "swaplink": "https://frgeevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 40000
-
-
-  },
-    {
-    "name": "Pigcoin",
-    "shortName": "PGC",
-    "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
-    "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
-    "decimals": 18,
-    "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
-    "token0Decimals": 18,
-    "token1Decimals": 18,
-    "reserveNumber": 1,
-    "swaplink": "https://www.frogge.finance/#/swap",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": false,
-    "supply": 888888888
   },
   {
     "name": "Bitcoin",
@@ -41,10 +24,10 @@
     "token0Decimals": 8,
     "token1Decimals": 18,
     "reserveNumber": 1,
-    "swaplink": "https://www.frogge.finance/#/swap",
+    "swaplink": "https://btcevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 21000000
+    "supply": 21000
   },
   {
     "name": "Ethereum",
@@ -56,7 +39,7 @@
     "token0Decimals": 6,
     "token1Decimals": 18,
     "reserveNumber": 0,
-    "swaplink": "https://www.frogge.finance/#/swap",
+    "swaplink": "https://ethevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 120344575
@@ -71,7 +54,7 @@
     "token0Decimals": 6,
     "token1Decimals": 18,
     "reserveNumber": 0,
-    "swaplink": "https://www.frogge.finance/#/swap",
+    "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 1090371587
@@ -86,7 +69,7 @@
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 1,
-    "swaplink": "https://www.frogge.finance/#/swap",
+    "swaplink": "https://neutroevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
@@ -101,7 +84,7 @@
     "token0Decimals": 18,
     "token1Decimals": 14,
     "reserveNumber": 1,
-    "swaplink": "https://noahark.pro/?chainId=17777&outputCurrency=0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
+    "swaplink": "https://cxeevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
