@@ -6,39 +6,30 @@
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "decimals": 18,
     "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
     "reserveNumber": 1,
     "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 40000
   },
-   {
-    "name": "BNB",
-    "shortName": "BNB",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-    "contractAddress": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
-    "decimals": 18,
-    "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
-    "reserveNumber": 1,
-    "swaplink": "https://www.frogge.finance/#/swap",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": false,
-    "supply": 40000
-  },
-    {
+  {
     "name": "Bitcoin",
     "shortName": "BTC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
     "contractAddress": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-    "decimals": 8,
+    "decimals": 18,
     "LP": "0x0c8e81e57B26F69b7b87b6F464057b6D2C9BFf9B",
+    "token0Decimals": 8,
+    "token1Decimals": 18,
     "reserveNumber": 1,
     "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 21000
   },
-    {
+  {
     "name": "Ethereum",
     "shortName": "ETH",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
@@ -64,7 +55,7 @@
     "isSupplyDynamic": false,
     "supply": 1090371587
   },
-   {
+  {
     "name": "NEUTRO",
     "shortName": "NEUTRO",
     "logo": "https://assets.coingecko.com/coins/images/30037/small/Icon_orange-01-01.png",
@@ -82,20 +73,7 @@
     "shortName": "CXE",
     "logo": "https://noahevm.s3.ap-northeast-1.amazonaws.com/image/17777-0xb529283cb363703bd7c049d8cf157249c2bc32de-cxe.png",
     "contractAddress": "0xb529283cb363703bd7c049d8cf157249c2bc32de",
-    "decimals": 6,
-    "LP": "0x0C397547a9287a2f7bE730147e461Ef81371c888",
-    "reserveNumber": 0,
-    "swaplink": "https://noahark.pro/?chainId=17777&outputCurrency=0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,
-    "supply": 0
-  },
-   {
-    "name": "PIG",
-    "shortName": "PIG",
-    "logo": "https://cdn-aancj.nitrocdn.com/gCmPdOiQHRSMMdgshrWKlPFYQNLRTYAo/assets/images/optimized/rev-1d52f52/wp-content/uploads/2019/02/chineseroastpig.jpg",
-    "contractAddress": "0xb529283cb363703bd7c049d8cf157249c2bc32de",
-    "decimals": 6,
+    "decimals": 18,
     "LP": "0x0C397547a9287a2f7bE730147e461Ef81371c888",
     "reserveNumber": 0,
     "swaplink": "https://noahark.pro/?chainId=17777&outputCurrency=0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
