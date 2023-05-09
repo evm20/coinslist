@@ -105,7 +105,7 @@
     "LP": "0xA1e120f8D8Fba18cB9b60cb8e0E56D43d631beA1",
     "token0Decimals": 18,
     "token1Decimals": 18,
-    "reserveNumber": 1,
+    "reserveNumber": 0,
     "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
