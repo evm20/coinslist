@@ -15,7 +15,7 @@
     "isSupplyDynamic": false,
     "supply": 35000
   },
-  {  
+  {
     "id": 2,
     "name": "Bitcoin",
     "shortName": "BTC",
@@ -31,7 +31,7 @@
     "isSupplyDynamic": false,
     "supply": 21000000
   },
-  {  
+  {
     "id": 3,
     "name": "Ethereum",
     "shortName": "ETH",
@@ -47,7 +47,7 @@
     "isSupplyDynamic": false,
     "supply": 120344575
   },
-  {  
+  {
     "id": 4,
     "name": "EOS",
     "shortName": "EOS",
@@ -63,7 +63,7 @@
     "isSupplyDynamic": false,
     "supply": 1090371587
   },
-  {  
+  {
     "id": 5,
     "name": "NEUTRO",
     "shortName": "NEUTRO",
@@ -79,7 +79,7 @@
     "isSupplyDynamic": true,
     "supply": 0
   },
-  {  
+  {
     "id": 6,
     "name": "CXE",
     "shortName": "CXE",
@@ -91,6 +91,22 @@
     "token1Decimals": 14,
     "reserveNumber": 1,
     "swaplink": "https://noahark.pro/?chainId=17777&outputCurrency=0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": true,
+    "supply": 0
+  },
+  {   
+    "id": 7,
+    "name": "Pigcoin",
+    "shortName": "PIG",
+    "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
+    "contractAddress": "0x89ab19eAFF05d1391e4feed92c5c3D9141366768",
+    "decimals": 18,
+    "LP": "0xA1e120f8D8Fba18cB9b60cb8e0E56D43d631beA1",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
+    "reserveNumber": 1,
+    "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
