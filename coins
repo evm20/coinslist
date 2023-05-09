@@ -69,7 +69,7 @@
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 1,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "swaplink": "https://app.neutroswap.io",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
