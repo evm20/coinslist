@@ -21,7 +21,7 @@
     "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
     "decimals": 18,
     "LP": "0x0c8e81e57B26F69b7b87b6F464057b6D2C9BFf9B",
-    "token0Decimals": 18,
+    "token0Decimals": 8,
     "token1Decimals": 18,
     "reserveNumber": 1,
     "swaplink": "https://eosevm.frogge.finance/#/swap",
