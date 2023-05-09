@@ -14,6 +14,21 @@
     "isSupplyDynamic": false,
     "supply": 40000
   },
+   {
+    "name": "Pigcoin",
+    "shortName": "PIG",
+    "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
+    "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
+    "decimals": 18,
+    "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
+    "reserveNumber": 1,
+    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": false,
+    "supply": 888888888
+  },
   {
     "name": "Bitcoin",
     "shortName": "BTC",
