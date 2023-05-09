@@ -108,7 +108,7 @@
     "reserveNumber": 1,
     "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": false,
-    "supply": 888888888
+    "isSupplyDynamic": true,
+    "supply": 0
   }
 ]
