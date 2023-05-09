@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Frogge",
     "shortName": "FRGE",
     "logo": "url",
@@ -14,22 +15,8 @@
     "isSupplyDynamic": false,
     "supply": 35000
   },
-   {
-    "name": "Pigcoin",
-    "shortName": "PIG",
-    "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
-    "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
-    "decimals": 18,
-    "LP": "0x0c8e81e57B26F69b7b87b6F464057b6D2C9BFf9B",
-    "token0Decimals": 8,
-    "token1Decimals": 18,
-    "reserveNumber": 1,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": false,
-    "supply": 888888888
-  },
-  {
+  {  
+    "id": 2,
     "name": "Bitcoin",
     "shortName": "BTC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
@@ -44,7 +31,8 @@
     "isSupplyDynamic": false,
     "supply": 21000000
   },
-  {
+  {  
+    "id": 3,
     "name": "Ethereum",
     "shortName": "ETH",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
@@ -59,7 +47,8 @@
     "isSupplyDynamic": false,
     "supply": 120344575
   },
-  {
+  {  
+    "id": 4,
     "name": "EOS",
     "shortName": "EOS",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
@@ -74,7 +63,8 @@
     "isSupplyDynamic": false,
     "supply": 1090371587
   },
-  {
+  {  
+    "id": 5,
     "name": "NEUTRO",
     "shortName": "NEUTRO",
     "logo": "https://assets.coingecko.com/coins/images/30037/small/Icon_orange-01-01.png",
@@ -89,7 +79,8 @@
     "isSupplyDynamic": true,
     "supply": 0
   },
-  {
+  {  
+    "id": 6,
     "name": "CXE",
     "shortName": "CXE",
     "logo": "https://noahevm.s3.ap-northeast-1.amazonaws.com/image/17777-0xb529283cb363703bd7c049d8cf157249c2bc32de-cxe.png",
@@ -103,5 +94,21 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
+  },
+   {   
+    "id": 7,
+    "name": "Pigcoin",
+    "shortName": "PIG",
+    "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
+    "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
+    "decimals": 18,
+    "LP": "0x0c8e81e57B26F69b7b87b6F464057b6D2C9BFf9B",
+    "token0Decimals": 8,
+    "token1Decimals": 18,
+    "reserveNumber": 1,
+    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": false,
+    "supply": 888888888
   }
 ]
