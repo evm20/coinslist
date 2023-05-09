@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Frogge",
     "shortName": "FRGE",
     "logo": "url",
@@ -15,6 +16,7 @@
     "supply": 35000
   },
   {  
+    "id": 2,
     "name": "Bitcoin",
     "shortName": "BTC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
@@ -30,6 +32,7 @@
     "supply": 21000000
   },
   {  
+    "id": 3,
     "name": "Ethereum",
     "shortName": "ETH",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
@@ -45,6 +48,7 @@
     "supply": 120344575
   },
   {  
+    "id": 4,
     "name": "EOS",
     "shortName": "EOS",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
@@ -60,6 +64,7 @@
     "supply": 1090371587
   },
   {  
+    "id": 5,
     "name": "NEUTRO",
     "shortName": "NEUTRO",
     "logo": "https://assets.coingecko.com/coins/images/30037/small/Icon_orange-01-01.png",
@@ -75,6 +80,7 @@
     "supply": 0
   },
   {  
+    "id": 6,
     "name": "CXE",
     "shortName": "CXE",
     "logo": "https://noahevm.s3.ap-northeast-1.amazonaws.com/image/17777-0xb529283cb363703bd7c049d8cf157249c2bc32de-cxe.png",
