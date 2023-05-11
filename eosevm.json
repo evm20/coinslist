@@ -1,37 +1,5 @@
 [
-  {
-    "id": 1,
-    "name": "Frogge",
-    "shortName": "FRGE",
-    "logo": "url",
-    "contractAddress": "0xf8c36fcDaf58B077d102400B88d1b7B1917e0987",
-    "decimals": 18,
-    "LP": "0xa977efdb6dd8818274215ca172772d3297c253c0",
-    "token0Decimals": 18,
-    "token1Decimals": 18,
-    "reserveNumber": 1,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": false,
-    "supply": 35000
-  },
-  {
-    "id": 2,
-    "name": "Bitcoin",
-    "shortName": "BTC",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-    "contractAddress": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-    "decimals": 18,
-    "LP": "0x0c8e81e57B26F69b7b87b6F464057b6D2C9BFf9B",
-    "token0Decimals": 8,
-    "token1Decimals": 18,
-    "reserveNumber": 1,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": false,
-    "supply": 21000000
-  },
-  {
+   {
     "id": 3,
     "name": "Ethereum",
     "shortName": "ETH",
@@ -39,10 +7,10 @@
     "contractAddress": "0x922d641a426dcffaef11680e5358f34d97d112e1",
     "decimals": 6,
     "LP": "0xF9C6Ea27d15152A06c761580fC9D73FD89e3A167",
-    "token0Decimals": 6,
-    "token1Decimals": 18,
+    "token0Decimals": 18,
+    "token1Decimals": 6,
     "reserveNumber": 0,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 120344575
@@ -55,10 +23,10 @@
     "contractAddress": "0xc00592aa41d32d137dc480d9f6d0df19b860104f",
     "decimals": 18,
     "LP": "0x671A5e209A5496256ee21386EC3EaB9054d658A2",
-    "token0Decimals": 6,
-    "token1Decimals": 18,
+    "token0Decimals": 18,
+    "token1Decimals": 6,
     "reserveNumber": 0,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 1090371587
@@ -74,7 +42,7 @@
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 1,
-    "swaplink": "https://app.neutroswap.io",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
@@ -87,15 +55,15 @@
     "contractAddress": "0xb529283cb363703bd7c049d8cf157249c2bc32de",
     "decimals": 6,
     "LP": "0x0C397547a9287a2f7bE730147e461Ef81371c888",
-    "token0Decimals": 18,
-    "token1Decimals": 14,
-    "reserveNumber": 1,
+    "token0Decimals": 6,
+    "token1Decimals": 18,
+    "reserveNumber": 0,
     "swaplink": "https://noahark.pro/?chainId=17777&outputCurrency=0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
   },
-    {   
+  {
     "id": 7,
     "name": "Pigcoin",
     "shortName": "PIG",
@@ -110,5 +78,21 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
+  },
+  {
+    "id": 2,
+    "name": "Bitcoin",
+    "shortName": "BTC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    "contractAddress": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+    "decimals": 18,
+    "LP": "0x0c8e81e57B26F69b7b87b6F464057b6D2C9BFf9B",
+    "token0Decimals": 18,
+    "token1Decimals": 8,
+    "reserveNumber": 1,
+    "swaplink": "https://www.frogge.finance/#/swap",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": false,
+    "supply": 21000
   }
 ]
