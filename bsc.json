@@ -26,7 +26,7 @@
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 0,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0
