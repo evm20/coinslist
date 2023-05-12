@@ -17,7 +17,7 @@
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
-    "coinId": ""
+    "coinId": "0"
   },
   {
     "id": 2,
@@ -117,7 +117,7 @@
     "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "CEX is an EOS EVm token. This LP tracks CEX / USDT",
-    "coinId": ""
+    "coinId": "0"
   },
   {
     "id": 7,
@@ -137,6 +137,6 @@
     "returnLiquidity": 1,
     "returnToken": "EOS",
     "description": "Pigcoim is a joke meme shitcoin, its value should always be 0. This LP tracks PIG / EOS",
-    "coinId": ""
+    "coinId": "0"
   }
 ]
