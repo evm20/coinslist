@@ -17,6 +17,22 @@
   },
     {   
     "id": 1,
+    "name": "ILCAPO",
+    "shortName": "CAPO",
+    "logo": "https://www.dextools.io/resources/tokens/logos/bsc/0x922722e9ef614ec9a3e94b78496e92abfbb5a624.png?1683741405120",
+    "contractAddress": "0x922722E9Ef614EC9A3E94b78496e92AbFBb5A624",
+    "decimals": 18,
+    "LP": "0x9c68Caf5bc64ee78b25149888F0eF4fDA0c5B7bE",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
+    "reserveNumber": 0,
+    "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": true,
+    "supply": 0
+  },
+    {   
+    "id": 1,
     "name": "BSC",
     "shortName": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
