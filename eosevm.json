@@ -16,7 +16,8 @@
     "supply": 35000,
     "returnLiquidity": 0,
     "returnToken": "EOS",
-    "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS"
+    "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
+    "dataSource": 0
   },
   {
     "id": 2,
@@ -35,7 +36,8 @@
     "supply": 21000000,
     "returnLiquidity": 0,
     "returnToken": "EOS",
-    "description": "BTC on EOS EVM. This LP tracks BTC / EOS"
+    "description": "BTC on EOS EVM. This LP tracks BTC / EOS",
+    "dataSource": 1
   },
   {
     "id": 3,
@@ -54,7 +56,8 @@
     "supply": 120344575,
     "returnLiquidity": 0,
     "returnToken": "USDT",
-    "description": "Ethereum on EOS EVM. This LP tracks ETH / USDT"
+    "description": "Ethereum on EOS EVM. This LP tracks ETH / USDT",
+    "dataSource": 1
   },
   {
     "id": 4,
@@ -73,7 +76,8 @@
     "supply": 1090371587,
     "returnLiquidity": 1,
     "returnToken": "EOS",
-    "description": "EOS is the token of EOS EVM. This LP tracks EOS / USDT"
+    "description": "EOS is the token of EOS EVM. This LP tracks EOS / USDT",
+    "dataSource": 1
   },
   {
     "id": 5,
@@ -92,7 +96,8 @@
     "supply": 0,
     "returnLiquidity": 0,
     "returnToken": "EOS",
-    "description": "Neutro is the token of the Neutro decentralized exchange. This LP tracks NEUTRO / EOS"
+    "description": "Neutro is the token of the Neutro decentralized exchange. This LP tracks NEUTRO / EOS",
+    "dataSource": 1
   },
   {
     "id": 6,
@@ -111,7 +116,8 @@
     "supply": 0,
     "returnLiquidity": 1,
     "returnToken": "USDT",
-    "description": "CEX is an EOS EVm token. This LP tracks CEX / USDT"
+    "description": "CEX is an EOS EVm token. This LP tracks CEX / USDT",
+    "dataSource": 0
   },
   {
     "id": 7,
@@ -130,6 +136,7 @@
     "supply": 0,
     "returnLiquidity": 1,
     "returnToken": "EOS",
-    "description": "Pigcoim is a joke meme shitcoin, its value should always be 0. This LP tracks PIG / EOS"
+    "description": "Pigcoim is a joke meme shitcoin, its value should always be 0. This LP tracks PIG / EOS",
+    "dataSource": 0
   }
 ]
