@@ -54,7 +54,7 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
     "supply": 120344575,
-    "returnLiquidity": 0,
+    "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "Ethereum on EOS EVM. This LP tracks ETH / USDT",
     "coinId": "ethereum"
