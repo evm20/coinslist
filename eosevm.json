@@ -32,7 +32,7 @@
     "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 21000,
+    "supply": 21000000,
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "BTC on EOS EVM. This LP tracks BTC / EOS"
