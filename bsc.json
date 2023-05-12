@@ -65,22 +65,6 @@
   },
     {   
     "id": 1,
-    "name": "ETH",
-    "shortName": "ETH",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-    "contractAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-    "decimals": 18,
-    "LP": "0x539e0EBfffd39e54A0f7E5F8FEc40ade7933A664",
-    "token0Decimals": 18,
-    "token1Decimals": 18,
-    "reserveNumber": 0,
-    "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0x2170ed0880ac9a755fd29b2688956bd959f933f8&chainId=56",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,
-    "supply": 0
-  },
-    {   
-    "id": 1,
     "name": "CAKE",
     "shortName": "CAKE",
     "logo": "https://dexscreener.com/img/dexes/pancakeswap.png",
