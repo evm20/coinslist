@@ -33,6 +33,22 @@
   },
     {   
     "id": 1,
+    "name": "BIBI",
+    "shortName": "BIBI",
+    "logo": "https://assets.coingecko.com/coins/images/30242/large/bibilogo.jpg?1683690982",
+    "contractAddress": "0xFE8bF5B8F5e4eb5f9BC2be16303f7dAB8CF56aA8",
+    "decimals": 18,
+    "LP": "0xBAbfB8eAc3D264e5E55a22f7BD83e73aA3227E9F",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
+    "reserveNumber": 0,
+    "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": true,
+    "supply": 0
+  },
+    {   
+    "id": 1,
     "name": "BSC",
     "shortName": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
