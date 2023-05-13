@@ -13,7 +13,8 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "coinId": "chihuahua"
   },
     {   
     "id": 2,
@@ -29,7 +30,8 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "coinId": "ilcapo"
   },
     {   
     "id": 3,
@@ -45,7 +47,8 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "coinId": "bibi"
   },
     {   
     "id": 4,
@@ -61,7 +64,8 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "coinId": "binancecoin"
   },
     {   
     "id": 5,
@@ -77,6 +81,7 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "coinId": "pancakeswap-token"
   }
 ]
