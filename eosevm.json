@@ -75,7 +75,7 @@
     "isSupplyDynamic": false,
     "supply": 1090371587,
     "returnLiquidity": 1,
-    "returnToken": "EOS",
+    "returnToken": "USDT",
     "description": "EOS is the token of EOS EVM. This LP tracks EOS / USDT",
     "coinId": "eos"
   },
