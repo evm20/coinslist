@@ -14,6 +14,7 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0,
+    "coinId": "chihuahua"
   },
     {   
     "id": 2,
