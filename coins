@@ -17,7 +17,7 @@
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
-    "coinId": "0"
+    "networkId": "evmeos"
   },
   {
     "id": 2,
@@ -37,7 +37,7 @@
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "BTC on EOS EVM. This LP tracks BTC / EOS",
-    "coinId": "bitcoin"
+    "networkId": "evmeos"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "Ethereum on EOS EVM. This LP tracks ETH / USDT",
-    "coinId": "ethereum"
+    "networkId": "evmeos"
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "EOS is the token of EOS EVM. This LP tracks EOS / USDT",
-    "coinId": "eos"
+    "networkId": "evmeos"
   },
   {
     "id": 5,
@@ -97,7 +97,7 @@
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "Neutro is the token of the Neutro decentralized exchange. This LP tracks NEUTRO / EOS",
-    "coinId": "neutroswap"
+    "networkId": "evmeos"
   },
   {
    "id": 6,
@@ -117,7 +117,7 @@
     "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "CEX is an EOS EVm token. This LP tracks CEX / USDT",
-    "coinId": "0"
+    "networkId": "evmeos"
   },
   {
      "id": 7,
@@ -137,7 +137,7 @@
     "returnLiquidity": 1,
     "returnToken": "EOS",
     "description": "Pigcoim is a joke meme shitcoin, its value should always be 0. This LP tracks PIG / EOS",
-    "coinId": "0"
+    "networkId": "evmeos"
   },
   {   
     "id": 8,
@@ -156,7 +156,7 @@
     "returnLiquidity": 1,
     "returnToken": "BNB",
     "supply": 0,
-    "coinId": "ilcapo"
+    "networkId": "bsc"
   },
     {   
     "id": 9,
@@ -175,7 +175,7 @@
     "returnToken": "BNB",
     "isSupplyDynamic": true, 
     "supply": 0,
-    "coinId": "bibi"
+    "networkId": "bsc"
   },
     {   
     "id": 10,
@@ -194,7 +194,7 @@
     "returnToken": "USDT",
     "isSupplyDynamic": true,
     "supply": 0,
-    "coinId": "binancecoin"
+    "networkId": "bsc"
   },
     {   
     "id": 11,
@@ -213,6 +213,6 @@
     "returnToken": "BNB",
     "isSupplyDynamic": true,
     "supply": 0,
-    "coinId": "pancakeswap-token"
+    "networkId": "bsc"
   }
 ]
