@@ -14,6 +14,7 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,        
     "returnLiquidity": 0,
+    "returnToken": "USDT",
     "supply": 0,
     "coinId": "ilcapo"
   },
@@ -31,6 +32,7 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",     
     "returnLiquidity": 0,
+    "returnToken": "BNB",
     "isSupplyDynamic": true, 
     "supply": 0,
     "coinId": "bibi"
@@ -49,6 +51,7 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",     
     "returnLiquidity": 0,
+    "returnToken": "USDT",
     "isSupplyDynamic": true,
     "supply": 0,
     "coinId": "binancecoin"
@@ -67,6 +70,7 @@
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56",
     "detailsLink": "https://...chartpage",     
     "returnLiquidity": 0,
+    "returnToken": "BNB",
     "isSupplyDynamic": true,
     "supply": 0,
     "coinId": "pancakeswap-token"
