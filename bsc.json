@@ -39,8 +39,8 @@
   },
     {   
     "id": 4,
-    "name": "BSC",
-    "shortName": "BSC",
+    "name": "BNB",
+    "shortName": "BNB",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "contractAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "decimals": 18,
