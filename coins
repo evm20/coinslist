@@ -17,7 +17,7 @@
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
-    "networkId": "evmeos"
+    "networkId": "eosevm"
   },
   {
     "id": 2,
@@ -37,7 +37,7 @@
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "BTC on EOS EVM. This LP tracks BTC / EOS",
-    "networkId": "evmeos"
+    "networkId": "eosevm"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "Ethereum on EOS EVM. This LP tracks ETH / USDT",
-    "networkId": "evmeos"
+    "networkId": "eosevm"
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "EOS is the token of EOS EVM. This LP tracks EOS / USDT",
-    "networkId": "evmeos"
+    "networkId": "eosevm"
   },
   {
     "id": 5,
@@ -97,7 +97,7 @@
     "returnLiquidity": 0,
     "returnToken": "EOS",
     "description": "Neutro is the token of the Neutro decentralized exchange. This LP tracks NEUTRO / EOS",
-    "networkId": "evmeos"
+    "networkId": "eosevm"
   },
   {
    "id": 6,
@@ -117,7 +117,7 @@
     "returnLiquidity": 1,
     "returnToken": "USDT",
     "description": "CEX is an EOS EVm token. This LP tracks CEX / USDT",
-    "networkId": "evmeos"
+    "networkId": "eosevm"
   },
   {
      "id": 7,
@@ -137,7 +137,7 @@
     "returnLiquidity": 1,
     "returnToken": "EOS",
     "description": "Pigcoim is a joke meme shitcoin, its value should always be 0. This LP tracks PIG / EOS",
-    "networkId": "evmeos"
+    "networkId": "eosevm"
   },
   {   
     "id": 8,
