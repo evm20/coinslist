@@ -12,7 +12,8 @@
     "reserveNumber": 0,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,
+    "isSupplyDynamic": true,        
+    "returnLiquidity": 0,
     "supply": 0,
     "coinId": "ilcapo"
   },
@@ -28,8 +29,9 @@
     "token1Decimals": 18,
     "reserveNumber": 1,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
-    "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,
+    "detailsLink": "https://...chartpage",     
+    "returnLiquidity": 0,
+    "isSupplyDynamic": true, 
     "supply": 0,
     "coinId": "bibi"
   },
@@ -45,7 +47,8 @@
     "token1Decimals": 18,
     "reserveNumber": 1,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
-    "detailsLink": "https://...chartpage",
+    "detailsLink": "https://...chartpage",     
+    "returnLiquidity": 0,
     "isSupplyDynamic": true,
     "supply": 0,
     "coinId": "binancecoin"
@@ -62,7 +65,8 @@
     "token1Decimals": 18,
     "reserveNumber": 0,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56",
-    "detailsLink": "https://...chartpage",
+    "detailsLink": "https://...chartpage",     
+    "returnLiquidity": 0,
     "isSupplyDynamic": true,
     "supply": 0,
     "coinId": "pancakeswap-token"
