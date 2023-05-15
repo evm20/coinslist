@@ -13,7 +13,11 @@
     "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 35000
+    "supply": 35000,
+    "returnLiquidity": 0,
+    "returnToken": "EOS",
+    "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
+    "coinId": "0"
   },
   {
     "id": 2,
@@ -23,13 +27,17 @@
     "contractAddress": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
     "decimals": 18,
     "LP": "0x0c8e81e57B26F69b7b87b6F464057b6D2C9BFf9B",
-    "token0Decimals": 8,
-    "token1Decimals": 18,
+    "token0Decimals": 18,
+    "token1Decimals": 8,
     "reserveNumber": 1,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 21000000
+    "supply": 21000000,
+    "returnLiquidity": 0,
+    "returnToken": "EOS",
+    "description": "BTC on EOS EVM. This LP tracks BTC / EOS",
+    "coinId": "bitcoin"
   },
   {
     "id": 3,
@@ -39,13 +47,17 @@
     "contractAddress": "0x922d641a426dcffaef11680e5358f34d97d112e1",
     "decimals": 6,
     "LP": "0xF9C6Ea27d15152A06c761580fC9D73FD89e3A167",
-    "token0Decimals": 6,
-    "token1Decimals": 18,
+    "token0Decimals": 18,
+    "token1Decimals": 6,
     "reserveNumber": 0,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 120344575
+    "supply": 120344575,
+    "returnLiquidity": 1,
+    "returnToken": "USDT",
+    "description": "Ethereum on EOS EVM. This LP tracks ETH / USDT",
+    "coinId": "ethereum"
   },
   {
     "id": 4,
@@ -55,13 +67,17 @@
     "contractAddress": "0xc00592aa41d32d137dc480d9f6d0df19b860104f",
     "decimals": 18,
     "LP": "0x671A5e209A5496256ee21386EC3EaB9054d658A2",
-    "token0Decimals": 6,
-    "token1Decimals": 18,
+    "token0Decimals": 18,
+    "token1Decimals": 6,
     "reserveNumber": 0,
-    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 1090371587
+    "supply": 1090371587,
+    "returnLiquidity": 1,
+    "returnToken": "USDT",
+    "description": "EOS is the token of EOS EVM. This LP tracks EOS / USDT",
+    "coinId": "eos"
   },
   {
     "id": 5,
@@ -74,29 +90,37 @@
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 1,
-    "swaplink": "https://app.neutroswap.io",
+    "swaplink": "https://www.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "returnLiquidity": 0,
+    "returnToken": "EOS",
+    "description": "Neutro is the token of the Neutro decentralized exchange. This LP tracks NEUTRO / EOS",
+    "coinId": "neutroswap"
   },
   {
-    "id": 6,
+   "id": 6,
     "name": "CXE",
     "shortName": "CXE",
     "logo": "https://noahevm.s3.ap-northeast-1.amazonaws.com/image/17777-0xb529283cb363703bd7c049d8cf157249c2bc32de-cxe.png",
     "contractAddress": "0xb529283cb363703bd7c049d8cf157249c2bc32de",
     "decimals": 6,
-    "LP": "0x0C397547a9287a2f7bE730147e461Ef81371c888",
-    "token0Decimals": 18,
-    "token1Decimals": 14,
-    "reserveNumber": 1,
+    "LP": "0xDDB5BDc68c5BB35600B381f07672166365653aa9",
+    "token0Decimals": 6,
+    "token1Decimals": 6,
+    "reserveNumber": 0,
     "swaplink": "https://noahark.pro/?chainId=17777&outputCurrency=0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "returnLiquidity": 1,
+    "returnToken": "USDT",
+    "description": "CEX is an EOS EVm token. This LP tracks CEX / USDT",
+    "coinId": "0"
   },
-    {   
-    "id": 7,
+  {
+     "id": 7,
     "name": "Pigcoin",
     "shortName": "PIG",
     "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
@@ -109,6 +133,10 @@
     "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
-    "supply": 0
+    "supply": 0,
+    "returnLiquidity": 1,
+    "returnToken": "EOS",
+    "description": "Pigcoim is a joke meme shitcoin, its value should always be 0. This LP tracks PIG / EOS",
+    "coinId": "0"
   }
 ]
