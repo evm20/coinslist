@@ -14,7 +14,7 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,        
     "returnLiquidity": 1,
-    "returnToken": "USDT",
+    "returnToken": "BNB",
     "supply": 0,
     "coinId": "ilcapo"
   },
