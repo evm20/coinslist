@@ -144,7 +144,7 @@
     "name": "Pigcoin",
     "shortName": "PIG",
     "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
-    "contractAddress": "0x5a819238DFE5E14138B2C0ED3a666f67813BD99D",
+    "contractAddress": "0x556B9219EdD5eCf1A3A7D94Bc131148941C813c6",
     "decimals": 18,
     "LP": "0x3faD45d62F7b33427c7249316Fa9C4C7B507849c",
     "token0Decimals": 18,
