@@ -2,16 +2,37 @@
     {
         "name": "Ethereum",
         "chainId": 1,
-        "explorer": "https://etherscan.io/"
+        "explorer": "https://etherscan.io/",
+        "chainIcon": "https://example.com/ethereum-icon.png"
     },
     {
         "name": "BSC",
         "chainId": 56,
-        "explorer": "https://bscscan.com/"
+        "explorer": "https://bscscan.com/",
+        "chainIcon": "https://example.com/bsc-icon.png"
     },
     {
         "name": "AVAX",
         "chainId": 43114,
-        "explorer": "https://explorer.avax.network/"
+        "explorer": "https://explorer.avax.network/",
+        "chainIcon": "https://example.com/avax-icon.png"
+    },
+    {
+        "name": "Optimism",
+        "chainId": 10,
+        "explorer": "https://optimistic.etherscan.io/",
+        "chainIcon": "https://example.com/optimism-icon.png"
+    },
+    {
+        "name": "Polygon",
+        "chainId": 137,
+        "explorer": "https://polygonscan.com/",
+        "chainIcon": "https://example.com/polygon-icon.png"
+    },
+    {
+        "name": "Arbitrum",
+        "chainId": 42161,
+        "explorer": "https://arbiscan.io/",
+        "chainIcon": "https://example.com/arbitrum-icon.png"
     }
 ]
