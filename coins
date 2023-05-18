@@ -155,7 +155,7 @@
     "isSupplyDynamic": true,
     "supply": 0,
     "returnLiquidity": 1,
-    "returnToken": "EOS",
+    "returnToken": "BNB",
     "description": "Pigcoim is a joke memecoin, its value should always be 0. Pig coin or ....? Pigcoin! There is no second best! This LP tracks PIG / BNB",
     "networkId": "bsc"
   },
