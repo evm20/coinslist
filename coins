@@ -30,7 +30,7 @@
     "token0Decimals": 18,
     "token1Decimals": 9,
     "reserveNumber": 1,
-    "swaplink": "https://bsc.frogge.finance/#/swap",
+    "swaplink": "https://pancakeswap.finance/swap?",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0,
