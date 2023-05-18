@@ -136,7 +136,7 @@
     "supply": 0,
     "returnLiquidity": 1,
     "returnToken": "EOS",
-    "description": "Pigcoim is a joke meme shitcoin, its value should always be 0. This LP tracks PIG / EOS",
+    "description": "Pigcoim is a joke memecoin, its value should always be 0. This LP tracks PIG / BNB",
     "networkId": "bsc"
   },
   {   
