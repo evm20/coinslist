@@ -39,6 +39,26 @@
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
     "networkId": "bsc"
   },
+   {
+    "id": 1,
+    "name": "Pepe",
+    "shortName": "Pepe",
+    "logo": "https://cdn.dexscreener.com/https://assets.coingecko.com/coins/images/30450/large/IMG_20230518_230955_871.png",
+    "contractAddress": "0xb46584e0efdE3092e04010A13f2eAe62aDb3b9F0",
+    "decimals": 9,
+    "LP": "0x1DE7c7156D8F5f52Ba5191393A5590636E6676D2",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
+    "reserveNumber": 1,
+    "swaplink": "https://pancakeswap.finance/swap?",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": true,
+    "supply": 0,
+    "returnLiquidity": 1,
+    "returnToken": "BNB",
+    "description": "Pepe Coin is a meme cryptocurrency project that was built on Binance Smart Chain. Pepe is the most memeable memecoin around the world, it‘s time to make memecoins great again and add some frog beside all dog memecoins",
+    "networkId": "bsc"
+  },
   {
     "id": 2,
     "name": "Bitcoin",
