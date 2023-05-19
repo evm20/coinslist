@@ -1,38 +1,34 @@
 [
     {
-        "name": "Ethereum",
-        "chainId": 1,
-        "explorer": "https://etherscan.io/",
-        "chainIcon": "https://example.com/ethereum-icon.png"
-    },
-    {
-        "name": "BSC",
-        "chainId": 56,
-        "explorer": "https://bscscan.com/",
+        "name": "EOSEVM Mainnet",
+        "shortName": "eos",
         "chainIcon": "https://example.com/bsc-icon.png"
+        "chain": {
+          "chainId": "0x4571",
+          "chainName": "EOSEVM",
+          "nativeCurrency": {
+            "name": "EOS",
+            "symbol": "EOS",
+            "decimals": 18,
+          },
+          "rpcUrls": ["https://api.evm.eosnetwork.com"],
+          "blockExplorerUrls": ["https://explorer.evm.eosnetwork.com"],
+        }
     },
     {
-        "name": "AVAX",
-        "chainId": 43114,
-        "explorer": "https://explorer.avax.network/",
-        "chainIcon": "https://example.com/avax-icon.png"
-    },
-    {
-        "name": "Optimism",
-        "chainId": 10,
-        "explorer": "https://optimistic.etherscan.io/",
-        "chainIcon": "https://example.com/optimism-icon.png"
-    },
-    {
-        "name": "Polygon",
-        "chainId": 137,
-        "explorer": "https://polygonscan.com/",
-        "chainIcon": "https://example.com/polygon-icon.png"
-    },
-    {
-        "name": "Arbitrum",
-        "chainId": 42161,
-        "explorer": "https://arbiscan.io/",
-        "chainIcon": "https://example.com/arbitrum-icon.png"
+        "name": "BSC Mainnet",
+        "shortName": "bsc",
+        "chainIcon": "https://assets.coingecko.com/coins/images/825/thumb/bnb-icon2_2x.png?1644979850"
+        "chain": {
+          "chainId": "0x38",
+          "chainName": "BNB Smart Chain",
+          "nativeCurrency": {
+            "name": "BNB",
+            "symbol": "BNB",
+            "decimals": 18,
+          },
+          "rpcUrls": ["https://bsc-dataseed.binance.org"],
+          "blockExplorerUrls": ["https://bscscan.com"],
+        }
     }
 ]
