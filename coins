@@ -49,7 +49,7 @@
     "LP": "0x1DE7c7156D8F5f52Ba5191393A5590636E6676D2",
     "token0Decimals": 18,
     "token1Decimals": 18,
-    "reserveNumber": 1,
+    "reserveNumber": 0,
     "swaplink": "https://pancakeswap.finance/swap?",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
