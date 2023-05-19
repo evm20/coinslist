@@ -2,7 +2,7 @@
     {
         "name": "EOSEVM Mainnet",
         "shortName": "eos",
-        "chainIcon": "https://example.com/bsc-icon.png"
+        "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png"
         "chain": {
           "chainId": "0x4571",
           "chainName": "EOSEVM",
@@ -18,7 +18,7 @@
     {
         "name": "BSC Mainnet",
         "shortName": "bsc",
-        "chainIcon": "https://assets.coingecko.com/coins/images/825/thumb/bnb-icon2_2x.png?1644979850"
+        "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
         "chain": {
           "chainId": "0x38",
           "chainName": "BNB Smart Chain",
