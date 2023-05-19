@@ -20,7 +20,7 @@
     "networkId": "eosevm"
   },
   {
-    "id": 1,
+    "id": 12,
     "name": "Pepelon",
     "shortName": "Pepelon",
     "logo": "https://assets.coingecko.com/coins/images/30394/large/logo.png?1684314832",
@@ -40,7 +40,7 @@
     "networkId": "bsc"
   },
    {
-    "id": 1,
+    "id": 13,
     "name": "Pepe",
     "shortName": "Pepe",
     "logo": "https://cdn.dexscreener.com/https://assets.coingecko.com/coins/images/30450/large/IMG_20230518_230955_871.png",
