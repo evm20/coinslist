@@ -277,12 +277,13 @@
   },
   {
     "id": 15,
+    "lpDescription": "WPLS/DAI",
     "name": "PulseChain",
     "shortName": "WPLS",
     "logo": "https://raw.githubusercontent.com/evm20/coinslist/main/images/pulsechain.png",
     "contractAddress": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
     "decimals": 18,
-    "LP": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+    "LP": "0xE56043671df55dE5CDf8459710433C10324DE0aE",
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 1,
@@ -291,8 +292,8 @@
     "isSupplyDynamic": true,
     "supply": 0,
     "returnLiquidity": 0,
-    "returnToken": "USDT",
-    "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
+    "returnToken": "DAI",
+    "description": "WPLS/DA",
     "networkId": "pls"
   }
 ]
