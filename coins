@@ -26,7 +26,7 @@
     "logo": "https://assets.coingecko.com/coins/images/30394/large/logo.png?1684314832",
     "contractAddress": "0xDd80c9625E13dB655840Ed47aF90Cc78702367eD",
     "decimals": 9,
-    "LP": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+    "LP": "0xe61913B2B9e3D1D4ff4a48F1c5D1Ab53c5F62958",
     "token0Decimals": 18,
     "token1Decimals": 9,
     "reserveNumber": 1,
