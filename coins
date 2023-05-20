@@ -254,7 +254,8 @@
     "isSupplyDynamic": true,
     "supply": 0,
     "networkId": "bsc"
-  }{
+  },
+  {
     "id": 14,
     "name": "PulseX",
     "shortName": "PLSX",
