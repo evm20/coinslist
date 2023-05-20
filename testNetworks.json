@@ -34,7 +34,7 @@
     {
         "name": "PulseChain Mainnet",
         "shortName": "pls",
-        "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11145.png",
+        "chainIcon": "https://scan.pulsechain.com/images/LogoVector-2d361e2f2fc7e4c5ca37fc4f92340781.svg?vsn=d",
         "chain": {
           "chainId": "0x171",
           "chainName": "PulseChain",
