@@ -18,5 +18,25 @@
     "returnToken": "WPLS",
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
     "networkId": "pls"
+  },
+  {
+    "id": 2,
+    "name": "PulseChain",
+    "shortName": "WPLS",
+    "logo": "	https://assets.coingecko.com/coins/images/25666/small/11145.png?1653287592",
+    "contractAddress": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+    "decimals": 18,
+    "LP": "0x1b45b9148791d3a104184Cd5DFE5CE57193a3ee9",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
+    "reserveNumber": 1,
+    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": true,
+    "supply": 0,
+    "returnLiquidity": 0,
+    "returnToken": "WPLS",
+    "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
+    "networkId": "pls"
   }
 ]
