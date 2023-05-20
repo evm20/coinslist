@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "PulseX",
+    "shortName": "PLSX",
+    "logo": "url",
+    "contractAddress": "https://cdn.dexscreener.com/https://assets.coingec…m/coins/images/30444/large/pulsex.jpeg?1684485216",
+    "decimals": 18,
+    "LP": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+    "token0Decimals": 18,
+    "token1Decimals": 18,
+    "reserveNumber": 1,
+    "swaplink": "https://eosevm.frogge.finance/#/swap",
+    "detailsLink": "https://...chartpage",
+    "isSupplyDynamic": false,
+    "supply": 143,086,357,458,677.253,
+    "returnLiquidity": 0,
+    "returnToken": "WPLS",
+    "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
+    "networkId": "pls"
+  }
+]
