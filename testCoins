@@ -13,7 +13,7 @@
     "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": false,
-    "supply": 143,086,357,458,677.253,
+    "supply": 143086357458677,
     "returnLiquidity": 0,
     "returnToken": "WPLS",
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
