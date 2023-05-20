@@ -1,0 +1,42 @@
+[
+{
+"name": "EOSEVM Mainnet",
+"shortName": "eos",
+"chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+"chain": {
+"chainId": "0x4571",
+"chainName": "EOSEVM",
+"nativeCurrency": {
+"name": "EOS",
+"symbol": "EOS",
+"decimals": 18
+},
+"rpcUrls": [
+"https://api.evm.eosnetwork.com"
+],
+"blockExplorerUrls": [
+"https://explorer.evm.eosnetwork.com"
+]
+}
+},
+{
+"name": "BSC Mainnet",
+"shortName": "bsc",
+"chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+"chain": {
+"chainId": "0x38",
+"chainName": "BNB Smart Chain",
+"nativeCurrency": {
+"name": "BNB",
+"symbol": "BNB",
+"decimals": 18
+},
+"rpcUrls": [
+"https://bsc-dataseed.binance.org"
+],
+"blockExplorerUrls": [
+"https://bscscan.com"
+]
+}
+}
+]
