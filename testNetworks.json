@@ -1,50 +1,50 @@
 [
-    {
-        "name": "EOSEVM Mainnet",
-        "shortName": "eos",
-        "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
-        "chain": {
-          "chainId": "0x4571",
-          "chainName": "EOSEVM",
-          "nativeCurrency": {
-            "name": "EOS",
-            "symbol": "EOS",
-            "decimals": 18
-          },
-          "rpcUrls": ["https://api.evm.eosnetwork.com"],
-          "blockExplorerUrls": ["https://explorer.evm.eosnetwork.com"]
-        }
-    },
-    {
-        "name": "BSC Mainnet",
-        "shortName": "bsc",
-        "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-        "chain": {
-          "chainId": "0x38",
-          "chainName": "BNB Smart Chain",
-          "nativeCurrency": {
-            "name": "BNB",
-            "symbol": "BNB",
-            "decimals": 18
-          },
-          "rpcUrls": ["https://bsc-dataseed.binance.org"],
-          "blockExplorerUrls": ["https://bscscan.com"]
-        }
-    },
-    {
-        "name": "PulseChain Mainnet",
-        "shortName": "pls",
-        "chainIcon": "https://scan.pulsechain.com/images/LogoVector-2d361e2f2fc7e4c5ca37fc4f92340781.svg?vsn=d",
-        "chain": {
-          "chainId": "0x171",
-          "chainName": "PulseChain",
-          "nativeCurrency": {
-            "name": "PLS",
-            "symbol": "PLS",
-            "decimals": 18
-          },
-          "rpcUrls": ["https://rpc.pulsechain.com"],
-          "blockExplorerUrls": ["https://scan.pulsechain.com"]
-        }
+  {
+    "name": "EOSEVM Mainnet",
+    "shortName": "eos",
+    "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+    "chain": {
+      "chainId": "0x4571",
+      "chainName": "EOSEVM",
+      "nativeCurrency": {
+        "name": "EOS",
+        "symbol": "EOS",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://api.evm.eosnetwork.com"],
+      "blockExplorerUrls": ["https://explorer.evm.eosnetwork.com"]
     }
+  },
+  {
+    "name": "BSC Mainnet",
+    "shortName": "bsc",
+    "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "chain": {
+      "chainId": "0x38",
+      "chainName": "BNB Smart Chain",
+      "nativeCurrency": {
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://bsc-dataseed.binance.org"],
+      "blockExplorerUrls": ["https://bscscan.com"]
+    }
+  },
+  {
+    "name": "PulseChain Mainnet",
+    "shortName": "pls",
+    "chainIcon": "https://scan.pulsechain.com/images/LogoVector-2d361e2f2fc7e4c5ca37fc4f92340781.svg?vsn=d",
+    "chain": {
+      "chainId": "0x171",
+      "chainName": "PulseChain",
+      "nativeCurrency": {
+        "name": "PLS",
+        "symbol": "PLS",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://rpc.pulsechain.com"],
+      "blockExplorerUrls": ["https://scan.pulsechain.com"]
+    }
+  }
 ]

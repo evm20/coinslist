@@ -100,7 +100,7 @@
     "coinId": "neutroswap"
   },
   {
-   "id": 6,
+    "id": 6,
     "name": "CXE",
     "shortName": "CXE",
     "logo": "https://noahevm.s3.ap-northeast-1.amazonaws.com/image/17777-0xb529283cb363703bd7c049d8cf157249c2bc32de-cxe.png",
@@ -120,7 +120,7 @@
     "coinId": "0"
   },
   {
-     "id": 7,
+    "id": 7,
     "name": "Pigcoin",
     "shortName": "PIG",
     "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",

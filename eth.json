@@ -1,5 +1,5 @@
 [
-    {   
+  {
     "id": 1,
     "name": "Pigcoin",
     "shortName": "PIG",
@@ -15,7 +15,7 @@
     "isSupplyDynamic": true,
     "supply": 0
   },
-    {   
+  {
     "id": 1,
     "name": "BSC",
     "shortName": "BSC",
@@ -31,7 +31,7 @@
     "isSupplyDynamic": true,
     "supply": 0
   },
-    {   
+  {
     "id": 1,
     "name": "ETH",
     "shortName": "ETH",
@@ -47,7 +47,7 @@
     "isSupplyDynamic": true,
     "supply": 0
   },
-    {   
+  {
     "id": 1,
     "name": "CAKE",
     "shortName": "CAKE",
