@@ -42,7 +42,7 @@
   {
     "name": "PulseChain Mainnet",
     "shortName": "pls",
-    "chainIcon": "https://github.com/evm20/coinslist/blob/main/images/pulsechain.png",
+    "chainIcon": "https://raw.githubusercontent.com/evm20/coinslist/main/images/pulsechain.png",
     "chain": {
       "chainId": "0x171",
       "chainName": "PulseChain",
