@@ -293,7 +293,7 @@
     "supply": 0,
     "returnLiquidity": 0,
     "returnToken": "DAI",
-    "description": "WPLS/DA",
+    "description": "WPLS/DAI",
     "networkId": "pls"
   }
 ]
