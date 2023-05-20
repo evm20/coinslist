@@ -6,7 +6,7 @@
     "logo": "https://cdn.dexscreener.com/https://assets.coingec…m/coins/images/30444/large/pulsex.jpeg?1684485216",
     "contractAddress": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
     "decimals": 18,
-    "LP": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+    "LP": "0x1b45b9148791d3a104184Cd5DFE5CE57193a3ee9",
     "token0Decimals": 18,
     "token1Decimals": 18,
     "reserveNumber": 1,
