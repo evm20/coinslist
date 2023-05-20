@@ -30,5 +30,21 @@
           "rpcUrls": ["https://bsc-dataseed.binance.org"],
           "blockExplorerUrls": ["https://bscscan.com"]
         }
+    },
+    {
+        "name": "PulseChain Mainnet",
+        "shortName": "pls",
+        "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11145.png",
+        "chain": {
+          "chainId": "0x171",
+          "chainName": "PulseChain",
+          "nativeCurrency": {
+            "name": "PLS",
+            "symbol": "PLS",
+            "decimals": 18
+          },
+          "rpcUrls": ["https://rpc.pulsechain.com"],
+          "blockExplorerUrls": ["https://scan.pulsechain.com"]
+        }
     }
 ]
