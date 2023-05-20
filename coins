@@ -291,7 +291,7 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0,
-    "returnLiquidity": 0,
+    "returnLiquidity": 1,
     "returnToken": "DAI",
     "description": "WPLS/DAI",
     "networkId": "pls"
