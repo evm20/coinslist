@@ -270,7 +270,7 @@
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0,
-    "returnLiquidity": 1,
+    "returnLiquidity": 0,
     "returnToken": "WPLS",
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
     "networkId": "pls"
