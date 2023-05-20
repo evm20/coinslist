@@ -39,7 +39,7 @@
     "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
     "networkId": "bsc"
   },
-   {
+  {
     "id": 13,
     "name": "Pepe",
     "shortName": "Pepe",
@@ -140,7 +140,7 @@
     "networkId": "eos"
   },
   {
-   "id": 6,
+    "id": 6,
     "name": "CXE",
     "shortName": "CXE",
     "logo": "https://noahevm.s3.ap-northeast-1.amazonaws.com/image/17777-0xb529283cb363703bd7c049d8cf157249c2bc32de-cxe.png",
@@ -160,7 +160,7 @@
     "networkId": "eos"
   },
   {
-     "id": 7,
+    "id": 7,
     "name": "Pigcoin",
     "shortName": "PIG",
     "logo": "https://i.ibb.co/3YC5LZW/pigcoin3.png",
@@ -179,7 +179,7 @@
     "description": "Pigcoim is a joke memecoin, its value should always be 0. Pig coin or ....? Pigcoin! There is no second best! This LP tracks PIG / BNB",
     "networkId": "bsc"
   },
-  {   
+  {
     "id": 8,
     "name": "ILCAPO",
     "shortName": "CAPO",
@@ -192,13 +192,13 @@
     "reserveNumber": 0,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
     "detailsLink": "https://...chartpage",
-    "isSupplyDynamic": true,        
+    "isSupplyDynamic": true,
     "returnLiquidity": 1,
     "returnToken": "BNB",
     "supply": 0,
     "networkId": "bsc"
   },
-    {   
+  {
     "id": 9,
     "name": "BIBI",
     "shortName": "BIBI",
@@ -210,14 +210,14 @@
     "token1Decimals": 18,
     "reserveNumber": 1,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
-    "detailsLink": "https://...chartpage",     
+    "detailsLink": "https://...chartpage",
     "returnLiquidity": 0,
     "returnToken": "BNB",
-    "isSupplyDynamic": true, 
+    "isSupplyDynamic": true,
     "supply": 0,
     "networkId": "bsc"
   },
-    {   
+  {
     "id": 10,
     "name": "BNB",
     "shortName": "BNB",
@@ -229,14 +229,14 @@
     "token1Decimals": 18,
     "reserveNumber": 1,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&chainId=56",
-    "detailsLink": "https://...chartpage",     
+    "detailsLink": "https://...chartpage",
     "returnLiquidity": 0,
     "returnToken": "USDT",
     "isSupplyDynamic": true,
     "supply": 0,
     "networkId": "bsc"
   },
-    {   
+  {
     "id": 11,
     "name": "CAKE",
     "shortName": "CAKE",
@@ -248,7 +248,7 @@
     "token1Decimals": 18,
     "reserveNumber": 0,
     "swaplink": "https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&chainId=56",
-    "detailsLink": "https://...chartpage",     
+    "detailsLink": "https://...chartpage",
     "returnLiquidity": 1,
     "returnToken": "BNB",
     "isSupplyDynamic": true,
@@ -280,19 +280,18 @@
     "name": "PulseChain",
     "shortName": "WPLS",
     "logo": "https://raw.githubusercontent.com/evm20/coinslist/main/images/pulsechain.png",
-    "contractAddress": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+    "contractAddress": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
     "decimals": 18,
-    "LP": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+    "LP": "0xE56043671df55dE5CDf8459710433C10324DE0aE",
     "token0Decimals": 18,
     "token1Decimals": 18,
-    "reserveNumber": 1,
+    "reserveNumber": 0,
     "swaplink": "https://eosevm.frogge.finance/#/swap",
     "detailsLink": "https://...chartpage",
     "isSupplyDynamic": true,
     "supply": 0,
     "returnLiquidity": 0,
-    "returnToken": "USDT",
-    "description": "FRGE is the token of the Frogge decentralized exchange. This LP tracks FRGE / EOS",
+    "returnToken": "DAI",
     "networkId": "pls"
   }
 ]

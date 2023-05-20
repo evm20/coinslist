@@ -46,5 +46,21 @@
       "rpcUrls": ["https://rpc.pulsechain.com"],
       "blockExplorerUrls": ["https://scan.pulsechain.com"]
     }
+  },
+  {
+    "name": "Ethereum Mainnet",
+    "shortName": "eth",
+    "chainIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "chain": {
+      "chainId": "0x171",
+      "chainName": "PulseChain",
+      "nativeCurrency": {
+        "name": "PLS",
+        "symbol": "PLS",
+        "decimals": 18
+      },
+      "rpcUrls": ["https://rpc.pulsechain.com"],
+      "blockExplorerUrls": ["https://scan.pulsechain.com"]
+    }
   }
 ]
